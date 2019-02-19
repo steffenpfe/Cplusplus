@@ -1,0 +1,2 @@
+Schreiben Sie ein Programm, welches eine Textdatei öffnet und deren Inhalt zeilenweise mit der Funktion fgets einliest.
+Die eingelesenen Zeilen werden in eine Ausgabetextdatei geschrieben, die zu diesem Zweck im Programm angelegt und geöffnet wird. 

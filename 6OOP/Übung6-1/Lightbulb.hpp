@@ -1,0 +1,4 @@
+#ifndef LIGHTBULB_HPP
+#define LIGHTBULB_HPP
+
+#endif // LIGHTBULB_HPP

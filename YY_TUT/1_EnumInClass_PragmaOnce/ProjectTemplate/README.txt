@@ -1,0 +1,1 @@
+Configuration for projects. All binaries in one directory

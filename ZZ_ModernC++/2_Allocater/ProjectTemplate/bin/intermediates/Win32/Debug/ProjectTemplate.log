@@ -1,0 +1,21 @@
+﻿  Main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(1011): warning C4244: "Initialisierung": Konvertierung von "_Ty" in "_Objty", möglicher Datenverlust
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Objty=float
+          ]
+  c:\users\steffen\documents\github\cplusplus\zz_modernc++\2_allocater\projecttemplate\projecttemplate\src\main.cpp(27): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "void std::allocator<float>::construct<float,double>(_Objty *const ,double &&)".
+          with
+          [
+              _Objty=float
+          ]
+  c:\users\steffen\documents\github\cplusplus\zz_modernc++\2_allocater\projecttemplate\projecttemplate\src\main.cpp(27): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "void std::allocator<float>::construct<float,double>(_Objty *const ,double &&)".
+          with
+          [
+              _Objty=float
+          ]
+  ProjectTemplate.vcxproj -> C:\Users\Steffen\Documents\GitHub\Cplusplus\ZZ_ModernC++\2_Allocater\ProjectTemplate\bin\Win32\Debug\ProjectTemplate.exe
